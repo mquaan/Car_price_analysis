@@ -1,0 +1,5 @@
+
+
+Car sell data: https://www.kaggle.com/datasets/nguynthanhlun/vietnamese-car-price?resource=download
+
+Vietnam province coordinates: https://www.kaggle.com/code/nhntran/covid-19-vietnam-data-eda-and-visualization/input
